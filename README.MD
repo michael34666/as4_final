@@ -34,8 +34,6 @@ Constructor: Initializes a node with a given value.
 get_value(): Retrieves the value stored in the node.
 set_value(): Sets the value stored in the node.
 get_son(): Returns a constant reference to the vector of child nodes.
-left(), right(): Return the left and right child nodes (specific to binary trees).
-setLeft(), setRight(): Sets the left and right child nodes (specific to binary trees).
 son_remove(): Clears the vector of child nodes.
 Private Members:
 data: The value stored in the node.
