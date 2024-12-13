@@ -1,6 +1,6 @@
 # Michael Dadush
-# 206917908
-# Michael_Dadush12@gmail.com
+
+
 
 This project implements a generic Tree data structure in C++, supporting both general trees (template <typename T, size_t K = 2>) 
 and binary trees (template <typename T>). The implementation includes various iterators for traversing the tree in different orders,
